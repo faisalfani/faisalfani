@@ -6,7 +6,8 @@
   <samp>
     Hello, I'm Faisal! :wink: from Indonesia.
     Just a Boy with infinity and beyond imagination. Beside's programming, I enjoy eating food and playing games.<br>
-    :school: Sophomore at Siliwangi University | Fellow Openclassroom Front-End Developer Diploma<br>
+    :school: 
+final-year students at Siliwangi University | Information System and Technology<br>
     :sparkles: Favorite Tech: Javascript<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>, Python<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>, & React<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>. <br>
     :notebook: I’m currently learning Front-End & Information System and Technology <br>
     :email:	faisalfani56@gmail.com <br>
