@@ -16,7 +16,6 @@ final-year students at Siliwangi University | Information System and Technology<
   <a href="https://www.linkedin.com/in/faisal-al-isfahani-51a2561a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/bala2jagung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><br>
   
-  ![github stats](https://github-readme-stats.vercel.app/api?username=faisalfani&show_icons=true)
 </p>
 
 
