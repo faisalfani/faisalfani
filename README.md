@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ed03ee9-b8c0-463f-91e1-37c2041ce8fa/d66mbdr-40b86b27-8bf6-42f1-bbd1-05c6b18341fb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvN2VkMDNlZTktYjhjMC00NjNmLTkxZTEtMzdjMjA0MWNlOGZhXC9kNjZtYmRyLTQwYjg2YjI3LThiZjYtNDJmMS1iYmQxLTA1YzZiMTgzNDFmYi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.eHPA9uWeJy9euHOiCkzn8AB4QyyEetzwvphMvKRXPW4" width="400px">
+  <img src="https://i.pinimg.com/originals/5d/ac/cd/5daccd462547adb3513d947a93d99562.png" width="400px">
   <br>
   <samp>
     Hello, I'm Faisal! :wink: from Indonesia.
