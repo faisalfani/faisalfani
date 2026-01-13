@@ -24,7 +24,7 @@
     🎨 Styling: CSS, Tailwind CSS <br>
     🔄 Version Control: Git
     <br><br>
-    📫 Reach me at: <b>faisalfani56@gmail.com</b> <br>
+    📫 Reach me at: <b>faisal.isfahani@gmail.com</b> <br>
     🎮 Fun: Dota 2 | Valorant | CS:GO | Shovel Knight
   </samp>
   <br><br>
